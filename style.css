@@ -1,0 +1,20 @@
+body{
+    font-family: Georgia, sans-serif;
+    background-image: linear-gradient(tan, blanchedalmond);
+}
+
+header {
+    background-color: black;
+    color:Brown;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.input{
+    color: red;
+}
